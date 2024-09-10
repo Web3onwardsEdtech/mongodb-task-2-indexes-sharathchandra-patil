@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-index-task",
+  "version": "1.0.0",
+  "description": "Task to implement and use indexes in MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  }
+}
